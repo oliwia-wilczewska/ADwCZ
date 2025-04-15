@@ -1,1 +1,1 @@
-# ADwCZ
+Analiza danych w czasie rzeczywistym
